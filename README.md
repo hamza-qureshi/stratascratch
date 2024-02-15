@@ -15,7 +15,7 @@ Explore my SQL journey in this repository - tackling tricky coding challenges.
       <td>10308</td>
       <td>Salaries Differences</td>
       <td>Easy</td>
-      <td><a href="10308.sql">Link</a></td>
+      <td><a href="sql/10308.sql">Link</a></td>
     </tr>
      
     <!-- Repeat the above pattern for each row in your data -->
