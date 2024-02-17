@@ -37,6 +37,12 @@ This repository contains my solutions to challenges encountered on [StrataScratc
       <td>Easy</td>
       <td><a href="sql/10176.sql">Link</a></td>
     </tr>
+    <tr>      
+      <td>10166</td>
+      <td><a href="https://platform.stratascratch.com/coding/10166-reviews-of-hotel-arena?code_type=3">Reviews of Hotel Arena</td>
+      <td>Easy</td>
+      <td><a href="sql/10166.sql">Link</a></td>
+    </tr>
         <!-- Repeat the above pattern for each row in your data --> 
      
   </tbody>
