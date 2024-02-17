@@ -25,6 +25,20 @@ This repository contains my solutions to challenges encountered on [StrataScratc
       <td>Easy</td>
       <td><a href="sql/10308.sql">Link</a></td>
     </tr>
+    <tr>      
+      <td>10299</td>
+      <td><a href="https://platform.stratascratch.com/coding/10299-finding-updated-records?code_type=3">Finding Updated Records</td>
+      <td>Easy</td>
+      <td><a href="sql/10299.sql">Link</a></td>
+    </tr>
+    <tr>      
+      <td>10176</td>
+      <td><a href="https://platform.stratascratch.com/coding/10176-bikes-last-used?code_type=3">Bikes Last Used</td>
+      <td>Easy</td>
+      <td><a href="sql/10176.sql">Link</a></td>
+    </tr>
+
+       
         <!-- Repeat the above pattern for each row in your data --> 
      
   </tbody>
