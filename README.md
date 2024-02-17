@@ -37,8 +37,6 @@ This repository contains my solutions to challenges encountered on [StrataScratc
       <td>Easy</td>
       <td><a href="sql/10176.sql">Link</a></td>
     </tr>
-
-       
         <!-- Repeat the above pattern for each row in your data --> 
      
   </tbody>
