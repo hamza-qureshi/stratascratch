@@ -43,6 +43,12 @@ This repository contains my solutions to challenges encountered on [StrataScratc
       <td>Easy</td>
       <td><a href="sql/10166.sql">Link</a></td>
     </tr>
+    <tr>      
+      <td>10128</td>
+      <td><a href="https://platform.stratascratch.com/coding/10128-count-the-number-of-movies-that-abigail-breslin-nominated-for-oscar?code_type=3">Reviews of Hotel Arena</td>
+      <td>Easy</td>
+      <td><a href="sql/10128sql">Link</a></td>
+    </tr>
         <!-- Repeat the above pattern for each row in your data --> 
      
   </tbody>
