@@ -49,6 +49,12 @@ This repository contains my solutions to challenges encountered on [StrataScratc
       <td>Easy</td>
       <td><a href="sql/10128.sql">Link</a></td>
     </tr>
+    <tr>      
+      <td>10087</td>
+      <td><a href="https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?code_type=3">Find all posts which were reacted to with a heart</td>
+      <td>Easy</td>
+      <td><a href="sql/10087.sql">Link</a></td>
+    </tr>       
         <!-- Repeat the above pattern for each row in your data --> 
      
   </tbody>
