@@ -60,6 +60,12 @@ This repository contains my solutions to challenges encountered on [StrataScratc
       <td><a href="https://platform.stratascratch.com/coding/10061-popularity-of-hack?code_type=3">Popularity of Hack</td>
       <td>Easy</td>
       <td><a href="sql/10061.sql">Link</a></td>
+    </tr> 
+    <tr>      
+      <td>10003</td>
+      <td><a href="https://platform.stratascratch.com/coding/10003-lyft-driver-wages?code_type=3">Lyft Driver Wages</td>
+      <td>Easy</td>
+      <td><a href="sql/10003.sql">Link</a></td>
     </tr>       
         <!-- Repeat the above pattern for each row in your data --> 
      
