@@ -66,7 +66,13 @@ This repository contains my solutions to challenges encountered on [StrataScratc
       <td><a href="https://platform.stratascratch.com/coding/10003-lyft-driver-wages?code_type=3">Lyft Driver Wages</td>
       <td>Easy</td>
       <td><a href="sql/10003.sql">Link</a></td>
-    </tr>       
+    </tr>   
+    <tr>      
+      <td>9992</td>
+      <td><a href="https://platform.stratascratch.com/coding/9992-find-artists-that-have-been-on-spotify-the-most-number-of-times?code_type=3">Find how many times each artist appeared on the Spotify ranking list</td>
+      <td>Easy</td>
+      <td><a href="sql/9992.sql">Link</a></td>
+    </tr>      
         <!-- Repeat the above pattern for each row in your data --> 
      
   </tbody>
