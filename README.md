@@ -72,7 +72,13 @@ This repository contains my solutions to challenges encountered on [StrataScratc
       <td><a href="https://platform.stratascratch.com/coding/9992-find-artists-that-have-been-on-spotify-the-most-number-of-times?code_type=3">Find how many times each artist appeared on the Spotify ranking list</td>
       <td>Easy</td>
       <td><a href="sql/9992.sql">Link</a></td>
-    </tr>      
+    </tr>
+    <tr>      
+      <td>9972</td>
+      <td><a href="https://platform.stratascratch.com/coding/9972-find-the-base-pay-for-police-captains?code_type=3">Find the base pay for Police Captains</td>
+      <td>Easy</td>
+      <td><a href="sql/9972.sql">Link</a></td>
+    </tr>    
         <!-- Repeat the above pattern for each row in your data --> 
      
   </tbody>
