@@ -85,6 +85,12 @@ This repository contains my solutions to challenges encountered on [StrataScratc
       <td>Easy</td>
       <td><a href="sql/9924.sql">Link</a></td>
     </tr>
+    <tr>      
+      <td>9917</td>
+      <td><a href="https://platform.stratascratch.com/coding/9917-average-salaries?code_type=3">Average Salaries</td>
+      <td>Easy</td>
+      <td><a href="sql/9917.sql">Link</a></td>
+    </tr>
         <!-- Repeat the above pattern for each row in your data --> 
      
   </tbody>
