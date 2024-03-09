@@ -91,6 +91,12 @@ This repository contains my solutions to challenges encountered on [StrataScratc
       <td>Easy</td>
       <td><a href="sql/9917.sql">Link</a></td>
     </tr>
+    <tr>      
+      <td>9913</td>
+      <td><a href="https://platform.stratascratch.com/coding/9913-order-details?code_type=3">Order Details</td>
+      <td>Easy</td>
+      <td><a href="sql/9913.sql">Link</a></td>
+    </tr>
         <!-- Repeat the above pattern for each row in your data --> 
      
   </tbody>
